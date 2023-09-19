@@ -20,7 +20,7 @@
     "@discordjs/collection": "^1.5.3",
     "get-urls": "^10.0.0",
     "instagram_mqtt": "^1.2.2",
-    "instagram-private-api": "github:NickCis/instagram-private-api#1308-clips",
+    "instagram-private-api": "github:Yontih/instagram-private-api#clips-test",
     "jimp": "^0.22.8",
     "node-fetch": "^2.6.1"
   },
